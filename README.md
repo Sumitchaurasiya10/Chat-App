@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💬 **Chatty** - Full Stack Real-Time Chat Application
 
 Welcome to **Chatty**, a powerful full-stack real-time chat application that lets users connect instantly with messaging, media sharing, and profile management features.
@@ -101,3 +102,6 @@ A big thank you to all the amazing open-source libraries and contributors who ma
 
 ⭐ **Enjoyed using Chatty?** Give it a star to show your support!
 
+=======
+# Chat-App
+>>>>>>> f3f66ce (done)
