@@ -38,7 +38,7 @@ Welcome to **Chatty**, a powerful full-stack real-time chat application that let
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/Priyanshu3369/fullstack-chat-app.git
+git clone https://github.com/Sumitchaurasiya10/Chat-App.git
 cd fullstack-chat-app
 ```
 
